@@ -1,0 +1,1 @@
+![SPaRKLE logo](./profile/assets/patch_color.png)
