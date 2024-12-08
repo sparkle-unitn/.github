@@ -1,1 +1,1 @@
-![SPaRKLE logo](./profile/assets/patch_color.png)
+![SPaRKLE logo](assets/patch_color.png)
